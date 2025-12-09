@@ -23,6 +23,9 @@ nav .nav-links a{
     color: rgb(255, 255, 255);
     padding: 10px;
 }
+a:active{
+    color: yellow;
+}
 nav .nav-links a:hover{
     color: red;
 }
